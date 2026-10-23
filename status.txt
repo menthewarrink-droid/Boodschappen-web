@@ -1,0 +1,6 @@
+pages-api:
+{"url":"https://api.github.com/repos/menthewarrink-droid/Boodschappen-web/pages","status":"built","cname":null,"custom_404":false,"html_url":"https://menthewarrink-droid.github.io/Boodschappen-web/","build_type":"legacy","source":{"branch":"gh-pages","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+builds:
+{"url":"https://api.github.com/repos/menthewarrink-droid/Boodschappen-web/pages/builds/1308883730","status":"built","error":{"message":null},"pusher":{"login":"menthewarrink-droid","id":242504281,"node_id":"U_kgDODnRSWQ","avatar_url":"https://avatars.githubusercontent.com/u/242504281?v=4","gravatar_id":"","url":"https://api.github.com/users/menthewarrink-droid","html_url":"https://github.com/menthewarrink-droid","followers_url":"https://api.github.com/users/menthewarrink-droid/followers","following_url":"https://api.github.com/users/menthewarrink-droid/following{/other_user}","gists_url":"http
+url: https://menthewarrink-droid.github.io/Boodschappen-web/
+http: 200
